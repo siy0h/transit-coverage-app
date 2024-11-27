@@ -2,4 +2,4 @@
 
 🚧🚌under construction!🚌🚧
 
-use brew install git-lfs
+use brew install git-lfs to view the data files
